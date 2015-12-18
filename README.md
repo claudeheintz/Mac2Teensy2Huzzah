@@ -7,7 +7,7 @@ Connect V+ and Gnd as well as the serial RX/TX pins.  Note that the RX of the Te
 
 ![Connections](connections.jpg)
 
-In addition, the Huzzah's GPIO0 pin should be connected to ground and the GPIO2 pint to +V in order to force the Huzzah into programming mode when it is powered on.  Here is the complete setup ready for the USB cable to be plugged into the Mac.
+In addition, the Huzzah's GPIO0 pin should be connected to ground and the GPIO2 pin to +V in order to force the Huzzah into programming mode when it is powered on.  Here is the complete setup ready for the USB cable to be plugged into the Mac.
 
 ![Photo](photo.jpg)
 

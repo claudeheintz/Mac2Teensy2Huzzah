@@ -11,7 +11,7 @@ In addition, the Huzzah's GPIO0 pin should be connected to ground and the GPIO2 
 
 ![Photo](photo.jpg)
 
-Once you have loaded the sketch onto the Teensy and connected it to the Huzzah, you can switch to the sketch you want to load on the Huzzah (don't forget to change to Tools->Board: "Adafruit HUZZAH ESP8266").
+Once you have loaded the sketch onto the Teensy and connected it to the Huzzah, you can switch to the sketch you want to load on the Huzzah (don't forget to change to Tools->Board: "Adafruit HUZZAH ESP8266".  The Teensy's serial port should still be selected in Tools->Port).
 
 Then, plug the USB cable into the Mac and click "Upload".  After the sketch compiles, you should see the Teensy's LED light up as the program is uploaded to the Huzzah's flash.
 

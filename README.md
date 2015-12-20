@@ -15,7 +15,7 @@ Full Step-by-Step:
 * Load the Mac2Teensy2Huzzah.ino sketch onto the Teensy.
 * Unplug the USB cable and connect the Teensy to the Huzzah as shown.
 * Switch to your sketch that you want to load on the Huzzah
-* (don't forget to change to Tools->Board: "Adafruit HUZZAH ESP8266".  The Teensy's serial port should still be selected in Tools->Port).
-* lug the USB cable into the Mac and click "Upload".
+* Don't forget to change to Tools->Board: "Adafruit HUZZAH ESP8266".  The Teensy's serial port should still be selected in Tools->Port.
+* Plug the USB cable into the Mac and click "Upload".
 * After the sketch compiles, you should see the Teensy's LED light up as the program is uploaded to the Huzzah's flash.
 * Once the upload is complete, be sure to disconnect GPIO0 from ground and GPIO2 from V+.

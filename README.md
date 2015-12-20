@@ -11,6 +11,7 @@ In addition, the Huzzah's GPIO0 pin should be connected to ground and the GPIO2 
 
 ![Photo](photo.jpg)
 
+Full Step-by-Step:
 * Load the Mac2Teensy2Huzzah.ino sketch onto the Teensy.
 * Unplug the USB cable and connect the Teensy to the Huzzah as shown.
 * Switch to your sketch that you want to load on the Huzzah

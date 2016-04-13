@@ -1,5 +1,5 @@
 # Mac2Teensy2Huzzah
-This is a method for using a Teensy 2.0++ as a serial bridge so that an Adafruit Huzzah can be programmed from the Arduino IDE on Mac OS X 10.11.
+This is a method for using a Teensy 2.0 or Teensy 2.0++ as a serial bridge so that an Adafruit Huzzah can be programmed from the Arduino IDE on Mac OS X 10.11.
 
 First, load the Mac2Teensy2HuzzahSerialBridge sketch onto the Teensy.  Then, unplug the USB cable from the Mac and connect the Teensy and Huzzah as follows:
 

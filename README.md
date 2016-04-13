@@ -19,3 +19,9 @@ Full Step-by-Step:
 * Plug the USB cable into the Mac and click "Upload".
 * After the sketch compiles, you should see the Teensy's LED light up as the program is uploaded to the Huzzah's flash.
 * Once the upload is complete, be sure to disconnect GPIO0 from ground and GPIO2 from V+.
+
+
+
+Eagle files are included for making a permanent programmer setup with a Teensy 2.0:
+
+![Photo](board.jpg)
